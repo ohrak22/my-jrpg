@@ -4,4 +4,22 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UniRPG Data/Scenes/System/startup.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/UniRPG Data/Scenes/System/unirpg.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/UniRPG Data/Scenes/System/menudata.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/UniRPG/Default Assets/GUI/Fantasy/menugui.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/UniRPG/Default Assets/GUI/Fantasy/gamegui.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/UniRPG Data/Scenes/gamescene.unity
+    guid: 00000000000000000000000000000000
